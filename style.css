@@ -1,0 +1,19 @@
+*{
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+
+html,
+body {
+	height: 100%;
+}
+
+body {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	background: url(pngtree-modern-double-color-futuristic-neon-background-image_351866.jpg)
+		no-repeat;
+	background-size: 100% 100%;
+}
